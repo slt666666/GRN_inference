@@ -38,6 +38,7 @@ gene_gff = gene_gff[gene_gff.iloc[:, 2] == "gene"]
 DEGs = get_DEGs(files[condition][0], 1, 0.01)
 # get TFs that showed TFBS enrichment
 TFBS = pd.read_csv("~~~~q-value.csv")
+TFBS = TFBS[TFBS["q"] < 0.01].reset_index(drop=True)
 # extract differentially expressed TFs
 DE_TFBS = TFBS[TFBS["AtID"].isin(DEGs)].reset_index(drop=True)
 print("Differentially expressed TFs that showed TFBS enrichment in {}:".format(condition), len(DE_TFBS.AtID.unique()))

@@ -15,14 +15,14 @@ def calculate_q(p_seq):
 
 # extract TFs that showed significant enrichment
 def get_enrichment_TFBS(file, Motif_ID_list, q_threshold):
-    PTI = pd.read_csv(file, sep="\t", header=None)
-    PTI.columns = ["Motif_ID", "treat", "realNum", "nShuffle", "biggerNum", "p"]
-    PTI["q"] = calculate_q(PTI["p"])
-    PTI = PTI[[i in Motif_ID_list["Motif_ID"].values for i in PTI["Motif_ID"]]]
-    PTI["AtID"] = [Motif_ID_list[Motif_ID_list["Motif_ID"] == i].AtID.values[0] for i in PTI["Motif_ID"]]
-    PTI["Symbol"] = [Motif_ID_list[Motif_ID_list["Motif_ID"] == i].Motif_Symbol.values[0] for i in PTI["Motif_ID"]]    
-    PTI["Source"] = [Motif_ID_list[Motif_ID_list["Motif_ID"] == i].Source.values[0] for i in PTI["Motif_ID"]]    
-    return PTI[PTI["q"] < q_threshold].reset_index(drop=True)
+    TFBS = pd.read_csv(file, sep="\t", header=None)
+    TFBS.columns = ["Motif_ID", "treat", "realNum", "nShuffle", "biggerNum", "p"]
+    TFBS["q"] = calculate_q(TFBS["p"])
+    TFBS = TFBS[[i in Motif_ID_list["Motif_ID"].values for i in TFBS["Motif_ID"]]]
+    TFBS["AtID"] = [Motif_ID_list[Motif_ID_list["Motif_ID"] == i].AtID.values[0] for i in TFBS["Motif_ID"]]
+    TFBS["Symbol"] = [Motif_ID_list[Motif_ID_list["Motif_ID"] == i].Motif_Symbol.values[0] for i in TFBS["Motif_ID"]]    
+    TFBS["Source"] = [Motif_ID_list[Motif_ID_list["Motif_ID"] == i].Source.values[0] for i in TFBS["Motif_ID"]]    
+    return TFBS[TFBS["q"] < q_threshold].reset_index(drop=True)
 
 
 # Motif ID vs AtID information
