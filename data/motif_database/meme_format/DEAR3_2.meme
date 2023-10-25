@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF DEAR3_2 DEAR3_2
+
+log-odds matrix: alength= 4 w= 8 E= 0
+  -107	   -60	   125	  -106	
+   124	  -140	  -113	   -33	
+   182	  -449	  -143	  -412	
+  -423	   194	  -469	  -411	
+  -320	   193	  -491	  -486	
+  -299	  -380	   191	  -463	
+   172	  -170	  -201	  -264	
+  -380	   194	  -580	  -363	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.119200	  0.164400	  0.596100	  0.120300	
+  0.592359	  0.094809	  0.113911	  0.198920	
+  0.881500	  0.011100	  0.093000	  0.014400	
+  0.013299	  0.962504	  0.009699	  0.014499	
+  0.027200	  0.955900	  0.008300	  0.008600	
+  0.031500	  0.017900	  0.940500	  0.010100	
+  0.821000	  0.077000	  0.062000	  0.040000	
+  0.017902	  0.957396	  0.004500	  0.020202	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=DEAR3_2
+

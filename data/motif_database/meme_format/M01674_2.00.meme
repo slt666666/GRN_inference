@@ -1,0 +1,24 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF M01674_2.00 (AT4G21895)_(Brachypodium_distachyon)_(DBD_0.85)
+
+letter-probability matrix: alength= 4 w= 9 nsites= 1 E= 0
+  0.374501	  0.137771	  0.378264	  0.109464	
+  0.226206	  0.276289	  0.249996	  0.247509	
+  0.606765	  0.056721	  0.230014	  0.106500	
+  0.428552	  0.111098	  0.200420	  0.259930	
+  0.475920	  0.046770	  0.205460	  0.271850	
+  0.400042	  0.099641	  0.159424	  0.340893	
+  0.337415	  0.202616	  0.115736	  0.344232	
+  0.546503	  0.072497	  0.224425	  0.156576	
+  0.462607	  0.040726	  0.319538	  0.177129	
+
+URL http://cisbp.ccbr.utoronto.ca/TFreport.php?versionNumber=2.00&searchTF=T017228_2.00
+

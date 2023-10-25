@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF ICU4 ICU4
+
+log-odds matrix: alength= 4 w= 8 E= 0
+  -142	   -54	  -207	   143	
+   153	   -38	  -213	  -314	
+   189	  -294	  -402	  -325	
+  -244	  -470	  -392	   189	
+    13	  -201	    18	    61	
+   189	  -392	  -470	  -244	
+  -325	  -402	  -294	   189	
+  -314	  -213	   -38	   153	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.093200	  0.171900	  0.059600	  0.675300	
+  0.721800	  0.192700	  0.057100	  0.028400	
+  0.925900	  0.032500	  0.015400	  0.026200	
+  0.046105	  0.009601	  0.016502	  0.927793	
+  0.274300	  0.062200	  0.282300	  0.381200	
+  0.927793	  0.016502	  0.009601	  0.046105	
+  0.026200	  0.015400	  0.032500	  0.925900	
+  0.028400	  0.057100	  0.192700	  0.721800	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=ICU4
+

@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF MYB46_2 MYB46_2
+
+log-odds matrix: alength= 4 w= 8 E= 0
+  -237	   110	   -94	    19	
+   188	  -293	  -329	  -353	
+   171	   -92	  -397	  -300	
+  -504	   195	  -472	  -364	
+   -27	   144	  -177	  -254	
+   172	  -533	   -64	  -433	
+     0	   136	  -382	  -148	
+  -209	   152	  -299	   -39	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.048300	  0.535800	  0.130300	  0.285600	
+  0.919800	  0.032900	  0.025600	  0.021700	
+  0.820700	  0.132100	  0.016000	  0.031200	
+  0.007600	  0.962800	  0.009500	  0.020100	
+  0.207500	  0.676500	  0.073100	  0.042900	
+  0.821500	  0.006200	  0.159900	  0.012400	
+  0.249200	  0.643500	  0.017700	  0.089600	
+  0.058600	  0.719000	  0.031400	  0.191000	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=MYB46_2
+

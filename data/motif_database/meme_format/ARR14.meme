@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF ARR14 ARR14
+
+log-odds matrix: alength= 4 w= 8 E= 0
+   192	  -562	  -328	  -339	
+  -690	  -829	   198	  -428	
+   199	  -797	  -624	  -564	
+  -697	  -648	  -690	   199	
+   102	   -70	  -797	    44	
+  -770	   194	  -783	  -271	
+  -472	  -573	   194	  -325	
+  -159	    95	    68	  -295	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.945400	  0.005100	  0.025700	  0.023800	
+  0.002100	  0.000800	  0.984200	  0.012900	
+  0.990699	  0.001000	  0.003300	  0.005001	
+  0.002000	  0.002800	  0.002100	  0.993100	
+  0.506500	  0.153800	  0.001000	  0.338700	
+  0.001200	  0.959596	  0.001100	  0.038104	
+  0.009500	  0.004700	  0.959600	  0.026200	
+  0.083000	  0.484000	  0.400600	  0.032400	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=ARR14
+

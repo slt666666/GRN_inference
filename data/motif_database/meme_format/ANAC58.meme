@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF ANAC58 ANAC58
+
+log-odds matrix: alength= 4 w= 8 E= 0
+    57	  -101	    46	   -63	
+  -140	   143	  -219	   -50	
+   187	  -287	  -351	  -301	
+     4	   147	  -328	  -344	
+  -324	  -274	   186	  -316	
+  -111	   147	  -180	  -106	
+   133	    -3	  -366	  -122	
+   162	  -150	  -324	  -111	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.369900	  0.124500	  0.343800	  0.161800	
+  0.094800	  0.673600	  0.054700	  0.176900	
+  0.912700	  0.034300	  0.021900	  0.031100	
+  0.257100	  0.694000	  0.025800	  0.023100	
+  0.026500	  0.037500	  0.908000	  0.028000	
+  0.115900	  0.692700	  0.071600	  0.119800	
+  0.627700	  0.245300	  0.019800	  0.107200	
+  0.769623	  0.088091	  0.026497	  0.115788	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=ANAC58
+

@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF WRKY12 WRKY12
+
+log-odds matrix: alength= 4 w= 8 E= 0
+   -54	   150	  -173	  -245	
+  -184	  -293	   171	  -167	
+  -365	  -201	  -553	   187	
+  -460	  -403	  -311	   192	
+  -495	  -545	   193	  -294	
+   196	  -543	  -463	  -420	
+  -311	   193	  -553	  -394	
+  -333	   153	  -130	   -72	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.171983	  0.706929	  0.075492	  0.045595	
+  0.069900	  0.032700	  0.818900	  0.078500	
+  0.019900	  0.061900	  0.005400	  0.912800	
+  0.010300	  0.015300	  0.028900	  0.945500	
+  0.008100	  0.005700	  0.953600	  0.032600	
+  0.970503	  0.005799	  0.010099	  0.013599	
+  0.028900	  0.949400	  0.005400	  0.016300	
+  0.024902	  0.722472	  0.101210	  0.151415	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=WRKY12
+

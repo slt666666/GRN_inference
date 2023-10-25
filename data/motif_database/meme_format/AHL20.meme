@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF AHL20 AHL20
+
+log-odds matrix: alength= 4 w= 8 E= 0
+   193	  -490	  -419	  -321	
+   181	  -676	  -516	  -114	
+  -170	  -562	  -466	   186	
+   179	  -633	  -664	   -96	
+   -96	  -664	  -633	   179	
+   186	  -466	  -562	  -170	
+  -114	  -516	  -676	   181	
+  -321	  -419	  -490	   193	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.950805	  0.008399	  0.013699	  0.027097	
+  0.877000	  0.002300	  0.007000	  0.113700	
+  0.076900	  0.005100	  0.009900	  0.908100	
+  0.866187	  0.003100	  0.002500	  0.128213	
+  0.128213	  0.002500	  0.003100	  0.866187	
+  0.908100	  0.009900	  0.005100	  0.076900	
+  0.113700	  0.007000	  0.002300	  0.877000	
+  0.027097	  0.013699	  0.008399	  0.950805	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=AHL20
+

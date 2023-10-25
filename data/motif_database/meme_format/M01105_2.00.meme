@@ -1,0 +1,24 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF M01105_2.00 (AT1G19485)_(Fusarium_graminearum)_(DBD_0.61)
+
+letter-probability matrix: alength= 4 w= 9 nsites= 1 E= 0
+  0.374340	  0.173324	  0.185892	  0.266444	
+  0.331918	  0.236250	  0.215916	  0.215916	
+  0.367239	  0.211878	  0.193642	  0.227241	
+  0.398201	  0.106374	  0.253904	  0.241521	
+  0.306146	  0.173133	  0.150515	  0.370206	
+  0.572249	  0.002137	  0.149841	  0.275772	
+  0.602371	  0.092840	  0.044740	  0.260050	
+  0.505970	  0.048254	  0.059530	  0.386247	
+  0.331768	  0.096009	  0.106106	  0.466117	
+
+URL http://cisbp.ccbr.utoronto.ca/TFreport.php?versionNumber=2.00&searchTF=T017224_2.00
+

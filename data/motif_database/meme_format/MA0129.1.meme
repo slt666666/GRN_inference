@@ -1,0 +1,22 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF MA0129.1 TGA1A
+
+letter-probability matrix: alength= 4 w= 7 nsites= 15 E= 0
+  0.266667	  0.266667	  0.000000	  0.466667	
+  0.866667	  0.000000	  0.066667	  0.066667	
+  0.000000	  0.933333	  0.000000	  0.066667	
+  0.133333	  0.000000	  0.866667	  0.000000	
+  0.066667	  0.000000	  0.000000	  0.933333	
+  0.000000	  1.000000	  0.000000	  0.000000	
+  0.866667	  0.000000	  0.066667	  0.066667	
+
+URL http://jaspar2016.genereg.net?ID=MA0129.1&rm=present&collection=CORE
+

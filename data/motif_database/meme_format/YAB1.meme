@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF YAB1 YAB1
+
+log-odds matrix: alength= 4 w= 8 E= 0
+   136	  -290	  -255	    18	
+   178	  -307	  -336	  -147	
+  -250	  -370	  -279	   185	
+    22	    76	   -94	   -70	
+   187	  -512	  -242	  -286	
+  -244	  -307	  -255	   182	
+   154	  -160	  -114	  -175	
+   163	  -231	  -160	  -139	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.641000	  0.033500	  0.042700	  0.282800	
+  0.855986	  0.029703	  0.024302	  0.090009	
+  0.044100	  0.019300	  0.036100	  0.900500	
+  0.290900	  0.424500	  0.130600	  0.154000	
+  0.911491	  0.007201	  0.046805	  0.034503	
+  0.046200	  0.029700	  0.042800	  0.881300	
+  0.729100	  0.082700	  0.113800	  0.074400	
+  0.771977	  0.050305	  0.082508	  0.095210	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=YAB1
+

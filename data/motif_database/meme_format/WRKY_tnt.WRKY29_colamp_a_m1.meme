@@ -1,0 +1,29 @@
+MEME version 4.4
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from /mnt/thumper-e1/home/shhuang/projects/dap/analysis.v4/gem07_rep_memechip03/ABI3VP1_tnt/AT5G18090_col_a/background):
+A 0.30000 C 0.20000 G 0.20000 T 0.30000 
+
+MOTIF WRKY_tnt.WRKY29_colamp_a_m1 WRKY29
+
+letter-probability matrix: alength= 4 w= 13 nsites= 599 E= 2.6e-857
+  0.449082	  0.233723	  0.111853	  0.205342	
+  0.601002	  0.116861	  0.111853	  0.170284	
+  0.684474	  0.015025	  0.106845	  0.193656	
+  0.766277	  0.008347	  0.173623	  0.051753	
+  0.000000	  0.000000	  0.998331	  0.001669	
+  0.000000	  0.000000	  0.003339	  0.996661	
+  0.000000	  1.000000	  0.000000	  0.000000	
+  0.994992	  0.003339	  0.000000	  0.001669	
+  0.981636	  0.000000	  0.018364	  0.000000	
+  0.222037	  0.686144	  0.001669	  0.090150	
+  0.168614	  0.120200	  0.414023	  0.297162	
+  0.313856	  0.233723	  0.190317	  0.262104	
+  0.230384	  0.225376	  0.126878	  0.417362	
+
+URL http://neomorph.salk.edu/dap_web/pages/browse_table_aj.php?AGI=WRKY29
+
+

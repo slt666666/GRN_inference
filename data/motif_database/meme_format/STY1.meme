@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF STY1 STY1
+
+log-odds matrix: alength= 4 w= 8 E= 0
+  -217	   180	  -218	  -368	
+  -238	   186	  -410	  -298	
+  -493	   192	  -303	  -438	
+  -473	  -531	  -459	   196	
+   196	  -459	  -531	  -473	
+  -438	  -303	   192	  -493	
+  -298	  -410	   186	  -238	
+  -368	  -218	   180	  -217	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.055594	  0.869813	  0.055094	  0.019498	
+  0.048100	  0.905700	  0.014600	  0.031600	
+  0.008200	  0.949100	  0.030700	  0.012000	
+  0.009399	  0.006299	  0.010399	  0.973903	
+  0.973903	  0.010399	  0.006299	  0.009399	
+  0.012000	  0.030700	  0.949100	  0.008200	
+  0.031600	  0.014600	  0.905700	  0.048100	
+  0.019498	  0.055094	  0.869813	  0.055594	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=STY1
+

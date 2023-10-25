@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF ETT_2 ETT_2
+
+log-odds matrix: alength= 4 w= 8 E= 0
+  -247	  -197	   -11	   140	
+  -186	  -357	   185	  -467	
+  -310	  -514	  -304	   190	
+  -152	   182	  -358	  -480	
+  -480	  -358	   182	  -152	
+   190	  -304	  -514	  -310	
+  -467	   185	  -357	  -186	
+   140	   -11	  -197	  -247	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.045095	  0.063594	  0.231577	  0.659734	
+  0.069093	  0.020998	  0.900110	  0.009799	
+  0.029100	  0.007100	  0.030300	  0.933500	
+  0.087000	  0.883100	  0.020900	  0.009000	
+  0.009000	  0.020900	  0.883100	  0.087000	
+  0.933500	  0.030300	  0.007100	  0.029100	
+  0.009799	  0.900110	  0.020998	  0.069093	
+  0.659734	  0.231577	  0.063594	  0.045095	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=ETT_2
+

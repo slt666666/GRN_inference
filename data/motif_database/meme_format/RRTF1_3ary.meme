@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF RRTF1_3ary RRTF1_3ary
+
+log-odds matrix: alength= 4 w= 8 E= 0
+  -225	   188	  -379	  -460	
+  -659	  -608	   198	  -573	
+  -586	   195	  -330	  -648	
+  -374	   196	  -659	  -531	
+  -488	  -490	   197	  -576	
+  -200	   170	  -420	  -115	
+   -55	   162	  -586	  -209	
+   169	  -264	  -170	  -176	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.052400	  0.919200	  0.018100	  0.010300	
+  0.002600	  0.003700	  0.989001	  0.004700	
+  0.004300	  0.967600	  0.025300	  0.002800	
+  0.018702	  0.972397	  0.002600	  0.006301	
+  0.008500	  0.008400	  0.978500	  0.004600	
+  0.062400	  0.811000	  0.013600	  0.113000	
+  0.170883	  0.766023	  0.004300	  0.058794	
+  0.809419	  0.040096	  0.076892	  0.073593	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=RRTF1_3ary
+

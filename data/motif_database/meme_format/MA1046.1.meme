@@ -1,0 +1,24 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF MA1046.1 NTL9
+
+letter-probability matrix: alength= 4 w= 9 nsites= 1000 E= 0
+  0.009990	  0.009990	  0.009990	  0.970030	
+  0.005000	  0.005000	  0.005000	  0.985000	
+  0.985000	  0.005000	  0.005000	  0.005000	
+  0.985000	  0.005000	  0.005000	  0.005000	
+  0.005000	  0.005000	  0.985000	  0.005000	
+  0.005000	  0.005000	  0.005000	  0.985000	
+  0.985000	  0.005000	  0.005000	  0.005000	
+  0.985000	  0.005000	  0.005000	  0.005000	
+  0.009990	  0.009990	  0.009990	  0.970030	
+
+URL http://jaspar2016.genereg.net?ID=MA1046.1&rm=present&collection=CORE
+

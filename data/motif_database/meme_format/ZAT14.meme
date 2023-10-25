@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF ZAT14 ZAT14
+
+log-odds matrix: alength= 4 w= 8 E= 0
+   157	  -229	  -217	   -71	
+  -433	    36	   137	  -366	
+  -242	  -288	  -648	   187	
+    15	  -335	   132	  -177	
+  -177	   132	  -335	    15	
+   187	  -648	  -288	  -242	
+  -366	   137	    36	  -433	
+   -71	  -217	  -229	   157	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.740700	  0.051000	  0.055700	  0.152600	
+  0.012400	  0.320700	  0.647100	  0.019800	
+  0.046800	  0.033900	  0.002800	  0.916500	
+  0.277728	  0.024502	  0.624662	  0.073107	
+  0.073107	  0.624662	  0.024502	  0.277728	
+  0.916500	  0.002800	  0.033900	  0.046800	
+  0.019800	  0.647100	  0.320700	  0.012400	
+  0.152600	  0.055700	  0.051000	  0.740700	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=ZAT14
+

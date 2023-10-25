@@ -1,0 +1,21 @@
+MEME version 4.4
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from /mnt/thumper-e1/home/shhuang/projects/dap/analysis.v4/gem07_rep_memechip03/ABI3VP1_tnt/AT5G18090_col_a/background):
+A 0.30000 C 0.20000 G 0.20000 T 0.30000 
+
+MOTIF NAC_tnt.ANAC047_colamp_a_d1 ANAC047
+
+letter-probability matrix: alength= 4 w= 5 nsites= 624 E= 2.0e-058
+  0.000000	  1.000000	  0.000000	  0.000000	
+  1.000000	  0.000000	  0.000000	  0.000000	
+  0.000000	  1.000000	  0.000000	  0.000000	
+  0.000000	  0.000000	  1.000000	  0.000000	
+  0.000000	  0.224359	  0.216346	  0.559295	
+
+URL http://neomorph.salk.edu/dap_web/pages/browse_table_aj.php?AGI=ANAC047
+
+

@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF KAN4_2 KAN4_2
+
+log-odds matrix: alength= 4 w= 8 E= 0
+   160	  -243	   -98	  -182	
+   141	  -616	  -648	    40	
+  -411	   -37	  -529	   165	
+   193	  -648	  -262	  -624	
+  -355	  -543	  -683	   196	
+  -280	  -370	  -457	   190	
+  -495	   196	  -536	  -431	
+  -478	   120	  -103	    23	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.756000	  0.046300	  0.126900	  0.070800	
+  0.664400	  0.003500	  0.002800	  0.329300	
+  0.014500	  0.193300	  0.006400	  0.785800	
+  0.953100	  0.002800	  0.040800	  0.003300	
+  0.021400	  0.005800	  0.002200	  0.970600	
+  0.036000	  0.019300	  0.010500	  0.934200	
+  0.008100	  0.973200	  0.006100	  0.012600	
+  0.009100	  0.574400	  0.122800	  0.293700	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=KAN4_2
+

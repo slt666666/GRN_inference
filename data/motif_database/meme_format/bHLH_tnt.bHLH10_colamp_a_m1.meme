@@ -1,0 +1,29 @@
+MEME version 4.4
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from /mnt/thumper-e1/home/shhuang/projects/dap/analysis.v4/gem07_rep_memechip03/ABI3VP1_tnt/AT5G18090_col_a/background):
+A 0.30000 C 0.20000 G 0.20000 T 0.30000 
+
+MOTIF bHLH_tnt.bHLH10_colamp_a_m1 bHLH10
+
+letter-probability matrix: alength= 4 w= 13 nsites= 595 E= 2.5e-1208
+  0.394958	  0.097479	  0.178151	  0.329412	
+  0.186555	  0.154622	  0.307563	  0.351261	
+  0.005042	  0.110924	  0.006723	  0.877311	
+  0.000000	  0.000000	  1.000000	  0.000000	
+  0.008403	  0.000000	  0.000000	  0.991597	
+  0.000000	  1.000000	  0.000000	  0.000000	
+  0.000000	  0.000000	  1.000000	  0.000000	
+  0.000000	  0.000000	  1.000000	  0.000000	
+  0.000000	  0.188235	  0.000000	  0.811765	
+  0.127731	  0.043697	  0.768067	  0.060504	
+  0.336134	  0.142857	  0.415126	  0.105882	
+  0.349580	  0.273950	  0.105882	  0.270588	
+  0.273950	  0.154622	  0.336134	  0.235294	
+
+URL http://neomorph.salk.edu/dap_web/pages/browse_table_aj.php?AGI=bHLH10
+
+

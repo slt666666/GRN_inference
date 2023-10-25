@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF PIF5 PIF5
+
+log-odds matrix: alength= 4 w= 8 E= 0
+  -266	   -37	   154	  -269	
+  -373	   190	  -276	  -437	
+   183	  -225	  -372	  -276	
+  -351	   183	  -181	  -391	
+  -391	  -181	   183	  -351	
+  -276	  -372	  -225	   183	
+  -437	  -276	   190	  -373	
+  -269	   154	   -37	  -266	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.039500	  0.193500	  0.728300	  0.038700	
+  0.018802	  0.932193	  0.036904	  0.012101	
+  0.891600	  0.052600	  0.019000	  0.036800	
+  0.022000	  0.890100	  0.071300	  0.016600	
+  0.016600	  0.071300	  0.890100	  0.022000	
+  0.036800	  0.019000	  0.052600	  0.891600	
+  0.012101	  0.036904	  0.932193	  0.018802	
+  0.038700	  0.728300	  0.193500	  0.039500	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=PIF5
+

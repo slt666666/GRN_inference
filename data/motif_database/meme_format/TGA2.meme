@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF TGA2 TGA2
+
+log-odds matrix: alength= 4 w= 8 E= 0
+  -400	  -359	  -545	   194	
+  -551	  -538	   179	  -103	
+   195	  -759	  -445	  -360	
+  -812	   177	  -580	   -80	
+   -80	  -580	   177	  -812	
+  -360	  -445	  -759	   195	
+  -103	   179	  -538	  -551	
+   194	  -545	  -359	  -400	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.015602	  0.020702	  0.005701	  0.957996	
+  0.005501	  0.006001	  0.866287	  0.122212	
+  0.966700	  0.001300	  0.011400	  0.020600	
+  0.000900	  0.851100	  0.004500	  0.143500	
+  0.143500	  0.004500	  0.851100	  0.000900	
+  0.020600	  0.011400	  0.001300	  0.966700	
+  0.122212	  0.866287	  0.006001	  0.005501	
+  0.957996	  0.005701	  0.020702	  0.015602	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=TGA2
+

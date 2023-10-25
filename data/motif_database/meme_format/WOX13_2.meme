@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF WOX13_2 WOX13_2
+
+log-odds matrix: alength= 4 w= 8 E= 0
+   -64	   -69	  -113	   119	
+   -35	   -59	  -251	   125	
+   169	  -209	  -316	  -124	
+   169	  -348	  -143	  -169	
+  -169	  -143	  -348	   169	
+  -124	  -316	  -209	   169	
+   125	  -251	   -59	   -35	
+   119	  -113	   -69	   -64	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.160284	  0.154885	  0.114189	  0.570643	
+  0.195900	  0.166000	  0.043800	  0.594300	
+  0.807300	  0.058800	  0.027900	  0.106000	
+  0.807081	  0.022402	  0.092909	  0.077608	
+  0.077608	  0.092909	  0.022402	  0.807081	
+  0.106000	  0.027900	  0.058800	  0.807300	
+  0.594300	  0.043800	  0.166000	  0.195900	
+  0.570643	  0.114189	  0.154885	  0.160284	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=WOX13_2
+

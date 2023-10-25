@@ -1,0 +1,25 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF M02141_2.00 (PRH)_(Medicago_truncatula)_(DBD_0.68)
+
+letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
+  0.281364	  0.126425	  0.407341	  0.184870	
+  0.145374	  0.096477	  0.428079	  0.330071	
+  0.371609	  0.225392	  0.163668	  0.239330	
+  0.115100	  0.623784	  0.124687	  0.136429	
+  0.205288	  0.025392	  0.066981	  0.702339	
+  0.489940	  0.129578	  0.149050	  0.231431	
+  0.417594	  0.134897	  0.199240	  0.248268	
+  0.250235	  0.242840	  0.137332	  0.369593	
+  0.268568	  0.196980	  0.293860	  0.240592	
+  0.254830	  0.232897	  0.259978	  0.252295	
+
+URL http://cisbp.ccbr.utoronto.ca/TFreport.php?versionNumber=2.00&searchTF=T204509_2.00
+

@@ -1,0 +1,25 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF M01222_2.00 (DOF4.6)_(Cannabis_sativa)_(DBD_0.93)
+
+letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
+  0.223428	  0.270180	  0.182927	  0.323464	
+  0.282481	  0.240714	  0.164615	  0.312190	
+  0.392654	  0.209125	  0.247876	  0.150345	
+  0.082205	  0.819928	  0.051378	  0.046489	
+  0.068428	  0.067747	  0.146318	  0.717507	
+  0.101621	  0.016967	  0.059815	  0.821598	
+  0.075072	  0.036178	  0.052902	  0.835848	
+  0.351983	  0.113702	  0.073228	  0.461086	
+  0.214877	  0.235113	  0.184947	  0.365062	
+  0.237513	  0.249690	  0.242311	  0.270486	
+
+URL http://cisbp.ccbr.utoronto.ca/TFreport.php?versionNumber=2.00&searchTF=T170176_2.00
+

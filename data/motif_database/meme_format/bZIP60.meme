@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF bZIP60 bZIP60
+
+log-odds matrix: alength= 4 w= 8 E= 0
+  -377	  -196	  -337	   184	
+  -324	  -207	   175	  -175	
+   183	  -390	  -255	  -235	
+  -428	   168	  -429	   -51	
+   -51	  -429	   168	  -428	
+  -235	  -255	  -390	   183	
+  -175	   175	  -207	  -324	
+   184	  -337	  -196	  -377	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.018300	  0.064300	  0.024100	  0.893300	
+  0.026500	  0.059400	  0.839700	  0.074400	
+  0.891411	  0.016698	  0.042796	  0.049095	
+  0.012900	  0.799300	  0.012800	  0.175000	
+  0.175000	  0.012800	  0.799300	  0.012900	
+  0.049095	  0.042796	  0.016698	  0.891411	
+  0.074400	  0.839700	  0.059400	  0.026500	
+  0.893300	  0.024100	  0.064300	  0.018300	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=bZIP60
+

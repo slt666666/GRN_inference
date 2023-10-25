@@ -1,0 +1,33 @@
+MEME version 5.4.1 (Tue Mar 1 19:18:48 2022 -0800)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF TCP15 TCP15
+
+log-odds matrix: alength= 4 w= 8 E= 0
+  -548	  -670	   197	  -416	
+  -573	  -620	   198	  -664	
+  -206	   -85	   163	  -305	
+  -488	   193	  -543	  -279	
+  -697	   199	  -759	  -524	
+  -633	   198	  -697	  -484	
+   192	  -437	  -278	  -659	
+  -543	   194	  -362	  -439	
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+  0.005599	  0.002400	  0.978002	  0.013999	
+  0.004700	  0.003400	  0.989400	  0.002500	
+  0.060094	  0.138486	  0.771323	  0.030097	
+  0.008500	  0.949600	  0.005800	  0.036100	
+  0.002000	  0.990100	  0.001300	  0.006600	
+  0.003100	  0.986199	  0.002000	  0.008701	
+  0.948800	  0.012100	  0.036500	  0.002600	
+  0.005800	  0.961900	  0.020400	  0.011900	
+
+URL http://floresta.eead.csic.es/footprintdb/index.php?db=ArabidopsisPBM:20140210&motif=TCP15
+
