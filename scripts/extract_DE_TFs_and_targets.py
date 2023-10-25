@@ -31,13 +31,13 @@ def get_closest_genes(Motif_id, treat, DEGs, gene_gff):
     return target_genes
 
 # Gene annotation information
-gene_gff = pd.read_csv("../data/TAIR10_GFF3_genes.gff", sep="\t", comment="#", header=None)
+gene_gff = pd.read_csv("../data/reference/TAIR10_GFF3_genes.gff", sep="\t", comment="#", header=None)
 gene_gff = gene_gff[gene_gff.iloc[:, 2] == "gene"]
 
 # get differentially expressed genes
 DEGs = get_DEGs(files[condition][0], 1, 0.01)
 # get TFs that showed TFBS enrichment
-TFBS = pd.read_csv("~~~~q-value.csv")
+TFBS = pd.read_csv("wt_a4_vs_un_TFBS_qvalues.csv")
 TFBS = TFBS[TFBS["q"] < 0.01].reset_index(drop=True)
 # extract differentially expressed TFs
 DE_TFBS = TFBS[TFBS["AtID"].isin(DEGs)].reset_index(drop=True)
@@ -46,4 +46,4 @@ print("Differentially expressed TFs that showed TFBS enrichment in {}:".format(c
 DE_target_genes = [get_closest_genes(Motif_id, files[condition][2], DEGs, gene_gff) for Motif_id in DE_TFBS.Motif_ID]
 DE_TFBS["DE_target_genes"] = [",".join(DE_target_gene) for DE_target_gene in DE_target_genes]
 # save
-DE_TFBS.to_csv("../data/{}_TF_and_target.csv".format(condition))
+DE_TFBS.to_csv("../data/wt_a4_vs_un_TF_and_target.csv".format(condition))
