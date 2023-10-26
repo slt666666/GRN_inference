@@ -8,3 +8,5 @@ python3 get_TAIR10_promoter_regions.py TAIR10_GFF3_genes.gff.gz
 # sort & merge bed file
 bedtools sort -i TAIR10_promoters.bed > TAIR10_promoters.sorted.bed
 bedtools merge -i TAIR10_promoters.sorted.bed > TAIR10_promoters.sorted.merged.bed
+# make fasta file
+bedtools getfasta -fi TAIR10_chr_all.fas -bed TAIR10_promoters.sorted.merged.bed > TAIR10_promoters.sorted.merged.fasta
